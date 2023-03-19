@@ -5,7 +5,7 @@ This is a simple FTP upload script for uploading files to a FTP server.
 ## Usage
 
 ```bash
-$ ./ftp_upload.sh <arguments>=<value>
+$ python ftp_upload.py <arguments>=<value>
 ```
 
 ## Arguments
